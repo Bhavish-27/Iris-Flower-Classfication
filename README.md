@@ -1,2 +1,2 @@
 # Iris-Flower-Classfication
-Classification of Iris Flowers using KNeighborsClassifier
+In a project centered on iris flower classification, the K-Nearest Neighbors (KNN) classifier was employed to categorize iris species based on their characteristics. Utilizing the well-known Iris dataset, the model was trained to identify patterns within the data and generate accurate predictions. Through the implementation of the KNN algorithm, the project achieved efficient classification by assessing the similarity between new data points and existing labeled data. This project exemplifies the practical application of machine learning techniques in species identification tasks, illustrating the potential for pattern recognition algorithms across diverse domains.
